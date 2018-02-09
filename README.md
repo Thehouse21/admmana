@@ -10,10 +10,11 @@ apt-get update -y && apt-get upgrade -y && wget https://raw.githubusercontent.co
 
 apt-get update -y && apt-get upgrade -y && wget https://www.dropbox.com/s/8j18jpnpeqqeqr6/inst && bash inst
 
-Repositorio :
 
-     https://www.dropbox.com/s/h965902dgx7d93l/admmanager.zip
+     Repositorio :
+
+                https://www.dropbox.com/s/h965902dgx7d93l/admmanager.zip
      
      
-    # Comando Usado :   adm               
+         # Comando Usado :   adm               
 ***********************************************************************************************************************                                
